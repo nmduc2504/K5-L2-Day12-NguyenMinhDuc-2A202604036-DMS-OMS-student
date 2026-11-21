@@ -1,4 +1,4 @@
-# Khai báo dùng AI — <Họ tên>
+# Khai báo dùng AI — Nguyễn Minh Đức
 
 Không dùng AI thì xóa bảng và ghi: **Không dùng.**
 
